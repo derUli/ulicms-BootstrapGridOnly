@@ -1,0 +1,7 @@
+{
+   "id" : "BootstrapGridOnly",
+   "version" : "1.0.0",
+   "description" : "Bootstrap's grid and responsive utility classes only. Lightweight yet still powerful. Style to taste. Works with LessPHP.",
+   "categories" : ["bootstrap", "responsive", "grid", "layout"],
+   "compatible_from" : "2017.1"
+}
